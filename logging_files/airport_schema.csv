@@ -1,0 +1,14 @@
+"airport_id,Integer
+name,String,special_character
+city,String,special_character
+country,String
+iata,String
+icao,String
+latitude,Decimal
+longitude,Decimal
+altitude,Decimal
+timezone,String
+dst,String
+tz_database_time_zone,String
+type,String
+source,string"
