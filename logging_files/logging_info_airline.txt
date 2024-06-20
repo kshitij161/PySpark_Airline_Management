@@ -1,0 +1,2 @@
+2023-12-29 16:20:37,710 - INFO - the good data saved at D:\airline_project_input\airline\output\good_data with 56 records and ['airline_id', 'name', 'alias', 'iata', 'icao', 'callsign', 'country', 'active', 'null_check'] columns
+2023-12-29 16:20:38,107 - INFO - the bad data saved at D:\airline_project_input\airline\outputad_data with 144 records and ['airline_id', 'name', 'alias', 'iata', 'icao', 'callsign', 'country', 'active', 'null_check'] columns
